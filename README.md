@@ -2,8 +2,8 @@ DISTRIBUTED TEXT ANALYSIS SYSTEM ON AWS
 ======================================
 
 Student:
-  Wesam gara [213305741]
-  Nasr assi [325707180]
+  Wesam gara
+  Nasr assi
 
 Course: Distributed Systems Programming – Text Analysis in the Cloud
 
